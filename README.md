@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 Hi, i am Alexey. I study Python more than 2 years and used many libraries for web scraping and data analysis.<br />
-I study in 42 Yerevan.<br />
+I study in ![42Yerevan](https://42yerevan.am/) <br /> 
 I don't have real experience at work but i learn quickly!<br />
 I am looking for a place where i can get experience in real projects.<br />
 
-![gif](https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47qcvpc0fi5uhta7wdtnbcw0vd5dyzr4vvncreecmt&rid=giphy.gif&ct=g)<br />
+<!-- ![gif](https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47qcvpc0fi5uhta7wdtnbcw0vd5dyzr4vvncreecmt&rid=giphy.gif&ct=g)<br /> -->
 
 <h2 > 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
