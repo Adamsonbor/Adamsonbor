@@ -39,12 +39,19 @@ I am looking for a place where i can get experience in real projects.<br />
 
 <h2 > 🚀 &nbsp;Sertificates</h2>
 
-<a href="https://stepik.org/cert/882497"><img src="https://img.shields.io/badge/Statistics-100-red" /></a>
-<a href="https://stepik.org/cert/866805"><img src="https://img.shields.io/badge/Python-100-blue" /></a>
-<a href="https://stepik.org/cert/1599206"><img src="https://img.shields.io/badge/OOP-100-orange" /></a>
-<a href="https://stepik.org/cert/1518712"><img src="https://img.shields.io/badge/SQL-100-yellow" /></a>
-<a href="https://stepik.org/cert/897137"><img src="https://img.shields.io/badge/Data Science-100-success" /></a>
-<a href="https://stepik.org/cert/911300"><img src="https://img.shields.io/badge/NNSamsung-88-inactive" /></a>
+<table>
+<tr>
+<td><a href="https://stepik.org/cert/882497" align="center"><img src="./certiificates/statistic.png" width="90%"/></a></td>
+<td><a href="https://stepik.org/cert/866805" align="center"><img src="./certiificates/Python.png"  width="90%" align="center"/></a></td>
+</tr>
+<tr>
+<td><a href="https://stepik.org/cert/1599206" align="center"><img src="./certiificates/OOP.png"  width="90%" align="center"/></a></td>
+<td><a href="https://stepik.org/cert/1518712" align="center"><img src="./certiificates/sql.png"  width="90%" align="center"/></a></td>
+</tr>
+<td><a href="https://stepik.org/cert/897137" align="center"><img src="./certiificates/ML.png"  width="90%" align="center"/></a></td>
+<td><a href="https://stepik.org/cert/911300" align="center"><img src="./certiificates/nn.png"  width="90%" align="center"/></a></td>
+</tr>
+</table>
 
 You can see my <a href="https://stepik.org/users/292380718">Stepik</a> account!
 
