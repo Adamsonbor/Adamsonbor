@@ -43,6 +43,9 @@ I am looking for a place where i can get experience in real projects.<br />
 
 <table>
 <tr>
+<td align="center"><a href="https://stepik.org/cert/1878649"><img src="./certiificates/QA.png" width="90%"/></a></td>
+</tr>
+<tr>
 <td align="center"><a href="https://stepik.org/cert/882497"><img src="./certiificates/statistic.png" width="90%"/></a></td>
 <td align="center"><a href="https://stepik.org/cert/866805"><img src="./certiificates/Python.png"  width="90%"/></a></td>
 </tr>
