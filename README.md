@@ -72,7 +72,7 @@ You can see my <a href="https://stepik.org/users/292380718">Stepik</a> account!
 <br />
 <hr>
 
-<div style="display:flex">
-<img style="height:auto; width:55%" src="https://github-readme-stats.vercel.app/api?username=adamsonbor&show_icons=true&theme=radical&hide_border=true"/>
-<img style="height:auto; width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsonbor&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
-</div>
+<!-- <div style="display:flex"> -->
+<!-- <img style="height:auto; width:55%" src="https://github-readme-stats.vercel.app/api?username=adamsonbor&show_icons=true&theme=radical&hide_border=true"/> -->
+<!-- <img style="height:auto; width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsonbor&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/> -->
+<!-- </div> -->
