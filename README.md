@@ -44,14 +44,11 @@ I am looking for a place where i can get experience in real projects.<br />
 
 <table>
 <tr>
-<td align="center"><a href="https://www.kaggle.com/learn/certification/alexeybor/feature-engineering"><img src="./certiificates/AlexeyBor - Feature Engineering.png" width="90%"/></a></td>
-</tr>
-<tr>
 <td align="center"><a href="https://www.kaggle.com/learn/certification/alexeybor/intermediate-machine-learning"><img src="./certiificates/AlexeyBor - Intermediate Machine Learning.png" width="90%"/></a></td>
 <td align="center"><a href="https://www.kaggle.com/learn/certification/alexeybor/intro-to-machine-learning"><img src="./certiificates/AlexeyBor - Intro to Machine Learning.png" width="90%"/></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://stepik.org/cert/1878649"><img src="./certiificates/QA.png" width="90%"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/learn/certification/alexeybor/feature-engineering"><img src="./certiificates/AlexeyBor - Feature Engineering.png" width="90%"/></a></td>
 <td align="center"><a href="https://www.kaggle.com/learn/certification/alexeybor/feature-engineering"><img src="./certiificates/AlexeyBor - Data Visualization.png" width="90%"/></a></td>
 </tr>
 <tr>
@@ -63,7 +60,7 @@ I am looking for a place where i can get experience in real projects.<br />
 <td align="center"><a href="https://stepik.org/cert/1518712"><img src="./certiificates/sql.png"  width="90%"/></a></td>
 </tr>
 <td align="center"><a href="https://stepik.org/cert/897137"><img src="./certiificates/ML.png"  width="90%"/></a></td>
-<td align="center"><a href="https://stepik.org/cert/911300"><img src="./certiificates/nn.png"  width="90%"/></a></td>
+<td align="center"><a href="https://stepik.org/cert/1878649"><img src="./certiificates/QA.png" width="90%"/></a></td>
 </tr>
 </table>
 
