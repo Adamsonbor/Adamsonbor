@@ -35,7 +35,7 @@ I am looking for a place where i can get experience in real projects.<br />
 <br />
 <hr>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
 <br />
 <hr>
