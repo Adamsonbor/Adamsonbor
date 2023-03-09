@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi, i am Alexey. I study Python more than 2 years and used many libraries for web scraping and data analysis.<br />
-I study in ![](https://42yerevan.am/) <br /> 
+I study in [42Yerevan](https://42yerevan.am/) <br /> 
 I don't have real experience at work but i learn quickly!<br />
 I am looking for a place where i can get experience in real projects.<br />
 
