@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi, I'm Alexey 👋
 
-Hi, i am Alexey. I study Python more than 2 years and used many libraries for web scraping and data analysis.<br />
+Hi, i'm Alexey. I study Python more than 2 years and used many libraries for web scraping and data analysis.<br />
 I study in [42Yerevan](https://42yerevan.am/) <br /> 
 I don't have real experience at work but i learn quickly!<br />
 I am looking for a place where i can get experience in real projects.<br />
@@ -29,7 +29,7 @@ I am looking for a place where i can get experience in real projects.<br />
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 -->
 
-<h2 > 🚀 &nbsp;My social media</h2>
+<!-- <h2 > 🚀 &nbsp;My social media</h2> -->
 <a href="https://www.facebook.com/profile.php?id=100088166472982"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/alexey-gladkov-6208b9258/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/adamsonbor"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -41,8 +41,9 @@ I am looking for a place where i can get experience in real projects.<br />
 
 <br />
 <hr>
--->
+
 <h2 > 🚀 &nbsp;Sertificates</h2>
+-->
 
 <table>
 <tr>
