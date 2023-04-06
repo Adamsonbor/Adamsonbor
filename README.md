@@ -7,6 +7,7 @@ I am looking for a place where i can get experience in real projects.<br />
 
 <!-- ![gif](https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47qcvpc0fi5uhta7wdtnbcw0vd5dyzr4vvncreecmt&rid=giphy.gif&ct=g)<br /> -->
 
+<!--
 <h2 > 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="60" width="60"/>
@@ -20,12 +21,13 @@ I am looking for a place where i can get experience in real projects.<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="60" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="60" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" height="60" width="60"/>
-</p>
+</p> 
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+-->
 
 <h2 > 🚀 &nbsp;My social media</h2>
 <a href="https://www.facebook.com/profile.php?id=100088166472982"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
