@@ -1,5 +1,7 @@
 # Hi, I'm Alexey 👋
 
+<a href="https://github.com/JaeSeoKim/badge42"><img align="right" src="https://badge42.vercel.app/api/v2/clg5dn5qz002108m98y4mrk2r/stats?cursusId=21&coalitionId=undefined" alt="agladkov's 42 stats" /></a>
+
 Hi, i'm Alexey. I study Python more than 2 years and used many libraries for web scraping and data analysis.<br />
 I study in [42Yerevan](https://42yerevan.am/) <br /> 
 I don't have real experience at work but i learn quickly!<br />
