@@ -7,7 +7,8 @@
  <br/><br/><br/>
 </div>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img align="right" src="https://badge42.vercel.app/api/v2/clg5dn5qz002108m98y4mrk2r/stats?cursusId=21&coalitionId=undefined" alt="agladkov's 42 stats" /></a>
+
+<a href="https://github.com/JaeSeoKim/badge42"><img align="right" width="50%"  src="https://badge42.vercel.app/api/v2/clg5dn5qz002108m98y4mrk2r/stats?cursusId=21&coalitionId=undefined" alt="agladkov's 42 stats" /></a>
 
 Hello! My name is Alexey, and I am a novice programmer with a great passion for technology and
 software development.<br /> I am confident that my experience and knowledge can be a valuable
