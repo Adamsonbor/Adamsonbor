@@ -7,6 +7,9 @@
  <br/><br/><br/>
 </div>
 
+<!--
+<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1"  width="100%"/>
+-->
 
 <a href="https://github.com/JaeSeoKim/badge42"><img align="right" width="50%"  src="https://badge42.vercel.app/api/v2/clg5dn5qz002108m98y4mrk2r/stats?cursusId=21&coalitionId=undefined" alt="agladkov's 42 stats" /></a>
 
@@ -77,7 +80,6 @@ contribution to any company where I can continue to grow and develop as a progra
 You can see my <a href="https://stepik.org/users/292380718">Stepik</a> account!
 -->
 <br />
-<hr>
 
 <!-- <div style="display:flex"> -->
 <!-- <img style="height:auto; width:55%" src="https://github-readme-stats.vercel.app/api?username=adamsonbor&show_icons=true&theme=radical&hide_border=true"/> -->
