@@ -1,11 +1,17 @@
-# Hi, I'm Alexey 👋
+<div align="center">
+  <h1>Hi, I'm Alexey 👋</h1>
+  <h3>Machine Learning Engineer from Yerevan</h3>
+  <a href="https://www.facebook.com/profile.php?id=100088166472982"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alexey-gladkov-6208b9258/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/adamsonbor"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+ <br/><br/><br/>
+</div>
 
 <a href="https://github.com/JaeSeoKim/badge42"><img align="right" src="https://badge42.vercel.app/api/v2/clg5dn5qz002108m98y4mrk2r/stats?cursusId=21&coalitionId=undefined" alt="agladkov's 42 stats" /></a>
 
-Hi, i'm Alexey. I study Python more than 2 years and used many libraries for web scraping and data analysis.<br />
-I study in [42Yerevan](https://42yerevan.am/) <br /> 
-I don't have real experience at work but i learn quickly!<br />
-I am looking for a place where i can get experience in real projects.<br />
+Hello! My name is Alexey, and I am a novice programmer with a great passion for technology and
+software development.<br /> I am confident that my experience and knowledge can be a valuable
+contribution to any company where I can continue to grow and develop as a programmer.<br />
 
 <!-- ![gif](https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47qcvpc0fi5uhta7wdtnbcw0vd5dyzr4vvncreecmt&rid=giphy.gif&ct=g)<br /> -->
 
@@ -32,9 +38,7 @@ I am looking for a place where i can get experience in real projects.<br />
 -->
 
 <!-- <h2 > 🚀 &nbsp;My social media</h2> -->
-<a href="https://www.facebook.com/profile.php?id=100088166472982"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/alexey-gladkov-6208b9258/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/adamsonbor"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
 <!--
 <br />
 <hr>
