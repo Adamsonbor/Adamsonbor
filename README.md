@@ -51,7 +51,7 @@ contribution to any company where I can continue to grow and develop as a progra
 
 <h2 > 🚀 &nbsp;Sertificates</h2>
 -->
-
+<!--
 <table>
 <tr>
 <td align="center"><a href="https://www.kaggle.com/learn/certification/alexeybor/intermediate-machine-learning"><img src="./certiificates/AlexeyBor - Intermediate Machine Learning.png" width="90%"/></a></td>
@@ -75,7 +75,7 @@ contribution to any company where I can continue to grow and develop as a progra
 </table>
 
 You can see my <a href="https://stepik.org/users/292380718">Stepik</a> account!
-
+-->
 <br />
 <hr>
 
