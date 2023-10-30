@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Alexey 👋</h1>
-  <h3>Machine Learning Engineer from Yerevan</h3>
+  <h3>Backend developer from Yerevan</h3>
   <a href="https://www.facebook.com/profile.php?id=100088166472982"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/alexey-gladkov-6208b9258/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/adamsonbor"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
