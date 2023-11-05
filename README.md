@@ -10,9 +10,10 @@
 <!--
 <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1"  width="100%"/>
 -->
-
+<img align="right" width="50%"  src="https://data.textstudio.com/output/sample/animated/8/2/0/6/ecole-42-6028.gif"/>
+<!--
 <a href="https://github.com/JaeSeoKim/badge42"><img align="right" width="50%"  src="https://badge42.vercel.app/api/v2/clg5dn5qz002108m98y4mrk2r/stats?cursusId=21&coalitionId=undefined" alt="agladkov's 42 stats" /></a>
-
+-->
 Hello! My name is Alexey, and I am a novice programmer with a great passion for technology and
 software development.<br /> I am confident that my experience and knowledge can be a valuable
 contribution to any company where I can continue to grow and develop as a programmer.<br />
